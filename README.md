@@ -48,3 +48,5 @@ This project is built with:
 └── script.js        # The JavaScript file for changing the background color
 ```
 ## License
+
+This project is licensed under the [MIT License](LICENSE).
